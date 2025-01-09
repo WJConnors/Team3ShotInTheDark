@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"E:\\Unreal\\Team3ShotInTheDark\\Team3ShotInTheDark\\Source\\Team3ShotInTheDark\\Team3ShotInTheDark.Build.cs",
-		"E:\\Unreal\\Team3ShotInTheDark\\Team3ShotInTheDark\\Source\\Team3ShotInTheDark.Target.cs",
-		"E:\\Unreal\\Team3ShotInTheDark\\Team3ShotInTheDark\\Source\\Team3ShotInTheDarkEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.1"
-}
