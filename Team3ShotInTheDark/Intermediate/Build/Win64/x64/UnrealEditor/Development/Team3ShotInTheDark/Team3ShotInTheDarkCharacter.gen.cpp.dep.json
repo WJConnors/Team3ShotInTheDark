@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\unrealeditor\\inc\\team3shotinthedark\\uht\\team3shotinthedarkcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\x64\\team3shotinthedarkeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\team3shotinthedark\\definitions.team3shotinthedark.h",
+            "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\source\\team3shotinthedark\\team3shotinthedarkcharacter.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\unrealeditor\\inc\\team3shotinthedark\\uht\\team3shotinthedarkcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

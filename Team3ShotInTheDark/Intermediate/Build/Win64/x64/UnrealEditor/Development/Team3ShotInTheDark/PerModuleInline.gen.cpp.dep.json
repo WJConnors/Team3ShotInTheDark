@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\team3shotinthedark\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\x64\\team3shotinthedarkeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\team3shotinthedark\\definitions.team3shotinthedark.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

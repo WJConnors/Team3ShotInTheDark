@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\unrealeditor\\inc\\team3shotinthedark\\uht\\team3shotinthedarkweaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\x64\\team3shotinthedarkeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\team3shotinthedark\\definitions.team3shotinthedark.h",
+            "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\source\\team3shotinthedark\\team3shotinthedarkweaponcomponent.h",
+            "e:\\unreal\\team3shotinthedark\\team3shotinthedark\\intermediate\\build\\win64\\unrealeditor\\inc\\team3shotinthedark\\uht\\team3shotinthedarkweaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

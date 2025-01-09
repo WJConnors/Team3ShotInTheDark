@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Team3ShotInTheDark",
+			"Path": "..\\Source\\Team3ShotInTheDark.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Team3ShotInTheDarkEditor",
+			"Path": "..\\Source\\Team3ShotInTheDarkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
